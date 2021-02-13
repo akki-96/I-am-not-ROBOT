@@ -1,0 +1,25 @@
+h3{
+    text-align: center;
+}
+.container{
+    
+    border: 1px solid black;
+    width: 700px;
+    height: 545px;
+    margin-left: 27.5%;
+}
+#reset{
+    width: max-content;
+    margin-left: 43%;
+    margin-top: 2%;
+    width: 100px;
+    height: 40px;
+}
+
+#verify{
+    width: max-content;
+    margin-left: 2%;
+    margin-top: 2%;
+    width: 100px;
+    height: 40px;
+}
